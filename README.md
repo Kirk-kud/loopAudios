@@ -19,7 +19,7 @@ The script currently allows three audio types:
   cd loopAudios
   ```
 
-2. Set up the virtual environment
+2. Set up the virtual environment\
   Windows:
   ```
   python3 -m venv .venv
