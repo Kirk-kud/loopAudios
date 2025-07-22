@@ -12,6 +12,8 @@ The script currently allows three audio types:
 - .m4a
 - .wav
 
+The use of the questionary Python library makes file traversal simple and enhances the command line interface, making use much simpler.
+ 
 ## How to Initialise and Use the Project
 1. Clone the repository
   ```
