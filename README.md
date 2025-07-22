@@ -33,11 +33,11 @@ The script currently allows three audio types:
   ```
 
 3. Install all dependencies
-   ```
-   pip install -r requirements.txt
-   ```
+ ```
+ pip install -r requirements.txt
+ ```
    
 4. Run the script
-   ```
-   python main.py
-   ```
+ ```
+ python main.py
+ ```
