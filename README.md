@@ -26,7 +26,7 @@ The script currently allows three audio types:
   source .venv\Scripts\activate
   ```
 
-  MacOS:
+   MacOS:
   ```
   python3 -m venv .venv
   source .venv/bin/activate
