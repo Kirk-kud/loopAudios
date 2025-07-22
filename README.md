@@ -1,4 +1,4 @@
-# ** Audio Loop Project**
+# **Audio Loop Project**
 
 This project is to scratch a very particular itch I have had for a while. I usually want to create hour long loops of a particular song or recording 
 but face website riddled with adds and long waiting times before I could achieve. I decided to build a simple Python script to achieve this much quicker.
