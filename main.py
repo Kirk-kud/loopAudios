@@ -1,9 +1,7 @@
 import sys
 from datetime import timedelta
 from pydub import AudioSegment
-from pydub.playback import play
 import questionary
-import datetime
 
 def loop_audio(audio_file, file_name, number_of_hours):
     if number_of_hours > 5:
