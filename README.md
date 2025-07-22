@@ -11,3 +11,33 @@ The script currently allows three audio types:
 - .mp3
 - .m4a
 - .wav
+
+## How to Initialise and Use the Project
+1. Clone the repository
+  ```
+  git clone https://github.com/Kirk-kud/loopAudios.git
+  cd loopAudios
+  ```
+
+2. Set up the virtual environment
+  Windows:
+  ```
+  python3 -m venv .venv
+  source .venv\Scripts\activate
+  ```
+
+  MacOS:
+  ```
+  python3 -m venv .venv
+  source .venv/bin/activate
+  ```
+
+3. Install all dependencies
+   ```
+   pip install -r requirements.txt
+   ```
+   
+4. Run the script
+   ```
+   python main.py
+   ```
